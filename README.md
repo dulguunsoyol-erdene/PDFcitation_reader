@@ -1,7 +1,7 @@
 # PDFcitation_reader
 **Code requested by a company**
 
-#### Code comments and texts are in Mongolian.
+**<ins>Code comments and texts are in Mongolian.</ins>**
 
 
 Processes PDF documents containing footnote citations and extracts the citations into a text file, marking and counting any missing citations.
